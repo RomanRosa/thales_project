@@ -1,2 +1,2 @@
-# thales_project
+# Thales Report Automation
 Thales Report
